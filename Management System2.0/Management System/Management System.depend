@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1730289338 source:c:\users\cleve\onedrive\documents\cput subjects\software development 1\project 2024\mediclinic 2.0\management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"security.h"
+	"appointment.h"
+	"patient.h"
+	"reporting.h"
+
+1730289665 c:\users\cleve\onedrive\documents\cput subjects\software development 1\project 2024\mediclinic 2.0\management system\security.h
+
+1730038291 c:\users\cleve\onedrive\documents\cput subjects\software development 1\project 2024\mediclinic 2.0\management system\appointment.h
+
+1730038328 c:\users\cleve\onedrive\documents\cput subjects\software development 1\project 2024\mediclinic 2.0\management system\patient.h
+
+1730288871 c:\users\cleve\onedrive\documents\cput subjects\software development 1\project 2024\mediclinic 2.0\management system\reporting.h
+	"appointment.h"
+	"patient.h"
+
+1730311256 source:c:\users\cleve\onedrive\documents\cput subjects\software development 1\project 2024\mediclinic 2.0\management system\security.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"security.h"
+
+1730288322 source:c:\users\cleve\onedrive\documents\cput subjects\software development 1\project 2024\mediclinic 2.0\management system\appointment.c
+	<stdio.h>
+	<string.h>
+	"appointment.h"
+
+1730288764 source:c:\users\cleve\onedrive\documents\cput subjects\software development 1\project 2024\mediclinic 2.0\management system\patient.c
+	<stdio.h>
+	<string.h>
+	"patient.h"
+
+1730311258 source:c:\users\cleve\onedrive\documents\cput subjects\software development 1\project 2024\mediclinic 2.0\management system\reporting.c
+	<stdio.h>
+	<string.h>
+	"reporting.h"
+
+1730288322 source:c:\users\user\onedrive\documents\computer engineering\year 1\software development 1\project\group 13\management system2.0\management system\appointment.c
+	<stdio.h>
+	<string.h>
+	"appointment.h"
+
+1730038291 c:\users\user\onedrive\documents\computer engineering\year 1\software development 1\project\group 13\management system2.0\management system\appointment.h
+
+1730288764 source:c:\users\user\onedrive\documents\computer engineering\year 1\software development 1\project\group 13\management system2.0\management system\patient.c
+	<stdio.h>
+	<string.h>
+	"patient.h"
+
+1730038328 c:\users\user\onedrive\documents\computer engineering\year 1\software development 1\project\group 13\management system2.0\management system\patient.h
+
+1730311434 source:c:\users\user\onedrive\documents\computer engineering\year 1\software development 1\project\group 13\management system2.0\management system\reporting.c
+	<stdio.h>
+	<string.h>
+	"reporting.h"
+
+1730288871 c:\users\user\onedrive\documents\computer engineering\year 1\software development 1\project\group 13\management system2.0\management system\reporting.h
+	"appointment.h"
+	"patient.h"
+
+1730311432 source:c:\users\user\onedrive\documents\computer engineering\year 1\software development 1\project\group 13\management system2.0\management system\security.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"security.h"
+
+1730289665 c:\users\user\onedrive\documents\computer engineering\year 1\software development 1\project\group 13\management system2.0\management system\security.h
+
